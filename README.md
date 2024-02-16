@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python learning projects.
 - 📫 How to reach me rezaie.geo@gmail.com
-- 😄 Pronouns: Hardworker.
+- 😄 Pronouns: Hardworker
 - ⚡ Fun fact: Lonely
 
 <!---
